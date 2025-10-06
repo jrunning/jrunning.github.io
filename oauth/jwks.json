@@ -1,6 +1,7 @@
 {
   "keys": [
     {
+      "kid": "ef54a1cb-a05c-4ef0-a1dd-25e09283dc3f",
       "crv": "P-256",
       "ext": true,
       "key_ops": ["verify"],
