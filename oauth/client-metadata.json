@@ -1,0 +1,12 @@
+{
+  "client_id": "https://jrunning.github.io/oauth/client-metadata.json",
+  "application_type": "web",
+  "client_name": "jrunning Test",
+  "client_uri": "https://jrunning.github.io",
+  "dpop_bound_access_tokens": true,
+  "grant_types": ["authorization_code", "refresh_token"],
+  "redirect_uris": ["http://localhost:8000/oauth/callback"],
+  "response_types": ["code"],
+  "scope": "atproto transition:generic",
+  "token_endpoint_auth_method": "none"
+}
